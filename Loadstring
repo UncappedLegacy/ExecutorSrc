@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync "https://raw.githubusercontent.com/UncappedLegacy/InternalUI-1/main/Loader", "Loader")()
